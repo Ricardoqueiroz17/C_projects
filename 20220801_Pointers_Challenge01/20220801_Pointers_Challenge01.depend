@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659389015 source:c:\users\ricar\c_projects\20220801_pointers_challenge01\main.c
+	<stdio.h>
+	<stdlib.h>
+

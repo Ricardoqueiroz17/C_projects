@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656133957 source:c:\users\ricar\c_projects\chap6_basicoperators\main.c
+	<stdio.h>
+	<stdlib.h>
+

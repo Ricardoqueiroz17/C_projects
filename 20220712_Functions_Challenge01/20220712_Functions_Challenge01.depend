@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657603430 source:c:\users\ricar\c_projects\20220712_functions_challenge01\main.c
+	<stdio.h>
+	<stdlib.h>
+

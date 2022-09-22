@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657827288 source:c:\users\ricar\c_projects\20220714_string_defineconstants\main.c
+	<stdio.h>
+	<stdlib.h>
+

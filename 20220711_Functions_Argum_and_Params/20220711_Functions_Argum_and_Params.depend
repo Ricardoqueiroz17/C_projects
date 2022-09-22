@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1657515339 source:c:\users\ricar\c_projects\20220711_functions_argum_and_params\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Example02.c"
+
+1657514840 source:c:\users\ricar\c_projects\20220711_functions_argum_and_params\example02.c
+	<stdio.h>
+	<stdlib.h>
+
+1657514840 c:\users\ricar\c_projects\20220711_functions_argum_and_params\example02.c
+	<stdio.h>
+	<stdlib.h>
+

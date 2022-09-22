@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658161370 source:c:\users\ricar\c_projects\20220718_morestringfunctions_usingpointers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

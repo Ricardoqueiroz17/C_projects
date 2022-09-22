@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661444884 source:c:\users\ricar\c_projects\202225_inpoutfiles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

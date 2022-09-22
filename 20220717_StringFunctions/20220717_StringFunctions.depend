@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658111649 source:c:\users\ricar\c_projects\20220717_stringfunctions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

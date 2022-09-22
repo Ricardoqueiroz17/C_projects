@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660443612 source:c:\users\ricar\c_projects\20220813_pointersasparams_challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

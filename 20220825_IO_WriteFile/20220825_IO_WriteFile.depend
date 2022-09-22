@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661483304 source:c:\users\ricar\c_projects\20220825_io_writefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

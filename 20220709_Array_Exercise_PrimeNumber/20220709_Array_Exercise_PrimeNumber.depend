@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657346305 source:c:\users\ricar\c_projects\20220709_array_exercise_primenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
